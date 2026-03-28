@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "개발 공부, 독서, 일기"
 name                     : "이재민(Lee Jaemin)"
 description              : "매일 반복하는 공부 습관"
-url                      : "https://jaeminlee-dev.github.io"
+url                      : "https://jemirc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jaeminlee-dev/jaeminlee-dev.github.io
+repository               : jemirc/jaeminlee-dev.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "잼민노트"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jaeminlee-dev"
+      url: "https://github.com/jemirc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/jlee-dbb"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jaeminlee-dev"
+      url: "https://github.com/jemirc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
